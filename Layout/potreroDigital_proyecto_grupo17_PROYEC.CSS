@@ -3,11 +3,13 @@ header{
 }
 main{
   height: 80%;
-  background-color: darkred;
+  background-color: grey;
 
 
 }
-
+#navbarDropdown{
+  color: antiquewhite;
+}
 .card{
 
   margin: 10px;
@@ -57,4 +59,21 @@ main{
   width: 20px;
   height: 20px;
 
+}
+.card-text{
+    font-size:18px;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    overflow: hidden;
+}
+
+.card-title {
+    font-size:19px;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    overflow: hidden;
+
+}
+.card{
+ height: 25em;
 }

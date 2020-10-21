@@ -3,9 +3,10 @@ header{
 }
 main{
   height: 80%;
-  background-color: darkred;
-
-
+  background-color: darkgrey;
+}
+#navbarDropdown{
+  color: antiquewhite;
 }
 
 .card{

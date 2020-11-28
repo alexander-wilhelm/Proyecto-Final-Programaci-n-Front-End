@@ -1,2 +1,1 @@
-
- repositorio del proyecto final de el curso de desarrollo web, potrero dijital
+Repositotio de la pagina web, de potrero dijital
